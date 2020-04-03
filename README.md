@@ -2,7 +2,8 @@
 
 # Materials:-
 Nodemcu ESP8266
-\n Ublox NEO 6M GPS
+
+Ublox NEO 6M GPS
 Jumpers
 
 # Connections:- 
